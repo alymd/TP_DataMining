@@ -1,0 +1,122 @@
+[
+    {
+        "MovieID": 1,
+        "Title": "Interstellar",
+        "Genre": "Sci-Fi",
+        "StudentID": 1
+    },
+    {
+        "MovieID": 2,
+        "Title": "The Dark Knight",
+        "Genre": "Action",
+        "StudentID": 2
+    },
+    {
+        "MovieID": 3,
+        "Title": "Fight Club",
+        "Genre": "Crime",
+        "StudentID": 3
+    },
+    {
+        "MovieID": 4,
+        "Title": "The Shawshank Redemption",
+        "Genre": "Drama",
+        "StudentID": 4
+    },
+    {
+        "MovieID": 5,
+        "Title": "Dune",
+        "Genre": "Sci-Fi",
+        "StudentID": 5
+    },
+    {
+        "MovieID": 6,
+        "Title": "Parasite",
+        "Genre": "Thriller",
+        "StudentID": 6
+    },
+    {
+        "MovieID": 7,
+        "Title": "The Grand Budapest Hotel",
+        "Genre": "Comedy",
+        "StudentID": 7
+    },
+    {
+        "MovieID": 8,
+        "Title": "Gladiator",
+        "Genre": "Action",
+        "StudentID": 8
+    },
+    {
+        "MovieID": 9,
+        "Title": "Spirited Away",
+        "Genre": "Animation",
+        "StudentID": 9
+    },
+    {
+        "MovieID": 10,
+        "Title": "No Country for Old Men",
+        "Genre": "Crime",
+        "StudentID": 10
+    },
+    {
+        "MovieID": 11,
+        "Title": "Blade Runner 2049",
+        "Genre": "Sci-Fi",
+        "StudentID": 11
+    },
+    {
+        "MovieID": 12,
+        "Title": "The Godfather",
+        "Genre": "Drama",
+        "StudentID": 12
+    },
+    {
+        "MovieID": 13,
+        "Title": "Whiplash",
+        "Genre": "Drama",
+        "StudentID": 13
+    },
+    {
+        "MovieID": 14,
+        "Title": "Mad Max: Fury Road",
+        "Genre": "Action",
+        "StudentID": 14
+    },
+    {
+        "MovieID": 15,
+        "Title": "Get Out",
+        "Genre": "Horror",
+        "StudentID": 15
+    },
+    {
+        "MovieID": 16,
+        "Title": "Arrival",
+        "Genre": "Sci-Fi",
+        "StudentID": 16
+    },
+    {
+        "MovieID": 17,
+        "Title": "The Wolf of Wall Street",
+        "Genre": "Comedy",
+        "StudentID": 17
+    },
+    {
+        "MovieID": 18,
+        "Title": "Her",
+        "Genre": "Romance",
+        "StudentID": 18
+    },
+    {
+        "MovieID": 19,
+        "Title": "1917",
+        "Genre": "War",
+        "StudentID": 19
+    },
+    {
+        "MovieID": 20,
+        "Title": "Everything Everywhere All at Once",
+        "Genre": "Fantasy",
+        "StudentID": 20
+    }
+]

@@ -8,7 +8,7 @@ et les fusionner dans un seul DataFrame avec Pandas.
 Pour exécuter ce projet, installez les dépendances nécessaires :
 ```bash
 pip install -r requirements.txt
-
+```
 ## Structure du projet
 TPDataMiningL2/
 ├── data/

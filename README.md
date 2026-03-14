@@ -10,7 +10,7 @@ Pour exécuter ce projet, installez les dépendances nécessaires :
 pip install -r requirements.txt
 ```
 ## Structure du projet
-TPDataMiningL2/
+```TPDataMiningL2/
 ├── data/
 │   ├── student-mat.csv
 │   └── movies.json
@@ -18,7 +18,7 @@ TPDataMiningL2/
 │   └── TP-KDD.ipynb
 ├── README.md 
 └── requirements.txt
-
+```
 
 
 ## Sources de données

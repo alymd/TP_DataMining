@@ -1,4 +1,4 @@
-# TPDataMiningL2 — Pipeline KDD
+# TPDataMining — Pipeline KDD
 
 ## C'est quoi ce projet ?
 L'objectif est de collecter des données depuis plusieurs sources
